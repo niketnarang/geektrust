@@ -1,0 +1,133 @@
+{
+  "name": "King Shan",
+  "gender": "male",
+  "partner": {
+    "name": "Queen Anga",
+    "gender": "female"
+  },
+  "children": [
+    {
+      "name": "Ish",
+      "gender": "male"
+    },
+    {
+      "name": "Chit",
+      "gender": "male",
+      "partner": {
+        "name": "Ambi",
+        "gender" : "female"
+      },
+      "children": [
+        {
+          "name": "Drita",
+          "gender": "male",
+          "partner": {
+            "name": "Jaya",
+            "gender": "female"
+          },
+          "children": [
+            {
+              "name": "Jata",
+              "gender": "male"
+            },
+            {
+              "name": "driya",
+              "gender": "female",
+              "partner": {
+                "name": "Mnu",
+                "gender": "male"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Vrita",
+          "gender": "male"
+        }
+      ]
+    },
+    {
+      "name": "Vich",
+      "gender": "male",
+      "partner": {
+        "name": "Lika",
+        "gender": "female"
+      },
+      "children":[
+        {
+          "name": "Vila",
+          "gender": "male",
+          "partner": {
+            "name": "Jnki",
+            "gender": "female"
+          },
+          "children": [
+            {
+              "name": "Lavnya",
+              "gender": "female",
+              "partner": {
+                "name": "Gru",
+                "gender": "male"
+              }
+
+            }
+          ]
+        },
+        {
+          "name": "Chika",
+          "gender": "female",
+          "partner": {
+            "name": "Koila",
+            "gender": "male"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Satya",
+      "gender": "female",
+      "partner": {
+        "name": "Vyan",
+        "gender": "male"
+      },
+      "children":[
+        {
+          "name": "Satvy",
+          "gender": "female",
+          "partner": {
+            "name": "Asva",
+            "gender": "male"
+          }
+        },
+        {
+          "name": "Savya",
+          "gender": "male",
+          "partner": {
+            "name": "Krpi",
+            "gender": "female"
+          },
+          "children":[
+            {
+              "name": "Kriya",
+              "gender": "male"
+            }
+          ]
+        },
+        {
+          "name": "Saayan",
+          "gender": "male",
+          "partner": {
+            "name": "Mira",
+            "gender": "female"
+          },
+          "children":[
+            {
+              "name": "Misa",
+              "gender": "male"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
